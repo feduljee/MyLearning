@@ -1,0 +1,7 @@
+
+V
+java:S1612";Replace this lambda with method reference 'Shape::getArea'.(×¤Ç²úÿÿÿÿ
+U
+java:S1117":Rename "shapes" which hides the field declared at line 10.(×¤Ç²úÿÿÿÿ
+W
+java:S1612"<Replace this lambda with method reference 'visitor::accept'.(ºþ“Ïþÿÿÿÿ

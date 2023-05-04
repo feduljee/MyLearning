@@ -1,0 +1,26 @@
+
+W
+java:S1612"<Replace this lambda with method reference 'String::isEmpty'.(Âü†ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‹ùçıÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ßÀ…k
+N	java:S106""9Replace this use of System.out or System.err by a logger.(‡ƒãÎ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(’éÇ¥ûÿÿÿÿ
+[
+java:S1612."@Replace this lambda with method reference 'String::toUpperCase'.(¹×¦šúÿÿÿÿ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(ûşİ£
+l
+java:S34577"Q%n should be used in place of \n to produce the platform-specific line separator.(¡¥¹Ğıÿÿÿÿ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(¡¥¹Ğıÿÿÿÿ
+J
+java:S1611<"/Remove the parentheses around the "x" parameter(¢Ã¥›şÿÿÿÿ
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(È•Êá
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(÷ªõ„üÿÿÿÿ
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(ˆ¡šÊşÿÿÿÿ
+M	java:S106A"9Replace this use of System.out or System.err by a logger.(ı¦÷f
+U
+java:S1612E"?Replace this lambda with method reference 'Collection::stream'.(Æ¼”³
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(–Íœúÿÿÿÿ
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ê¤òÃùÿÿÿÿ
+0
+java:S1220""Move this file to a named package.

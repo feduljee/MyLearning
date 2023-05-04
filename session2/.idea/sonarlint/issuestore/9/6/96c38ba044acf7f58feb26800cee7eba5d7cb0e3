@@ -1,0 +1,4 @@
+
+Ò
+java:S1598"¶This file "Visitor.java" should be located in "com/lowes/examples/visitors/Visitor" directory, not in "/Users/faedulje/myLearning/session2/src/main/java/com/lowes/examples/visitors".(×Ïé’ýÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×Ïé’ýÿÿÿÿ

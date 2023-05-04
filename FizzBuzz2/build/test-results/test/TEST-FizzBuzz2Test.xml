@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FizzBuzz2Test" tests="2" skipped="0" failures="1" errors="0" timestamp="2022-09-07T19:57:41" hostname="faedulje-a72a4" time="0.394">
+  <properties/>
+  <testcase name="Should show 1 for 1" classname="FizzBuzz2Test" time="0.185"/>
+  <testcase name="Should show 2 for 2" classname="FizzBuzz2Test" time="0.209">
+    <failure message="Condition not satisfied:&#10;&#10;&quot;2&quot; == new FizzBuzz2().convert(2)&#10;    |  |               |&#10;    |  |               1&#10;    |  &lt;FizzBuzz2@7d6ec8cd&gt;&#10;    false&#10;    1 difference (0% similarity)&#10;    (2)&#10;    (1)&#10;" type="org.spockframework.runtime.SpockComparisonFailure">Condition not satisfied:
+
+&quot;2&quot; == new FizzBuzz2().convert(2)
+    |  |               |
+    |  |               1
+    |  &lt;FizzBuzz2@7d6ec8cd&gt;
+    false
+    1 difference (0% similarity)
+    (2)
+    (1)
+
+	at FizzBuzz2Test.Should show 2 for 2(FizzBuzz2Test.groovy:11)
+</failure>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
