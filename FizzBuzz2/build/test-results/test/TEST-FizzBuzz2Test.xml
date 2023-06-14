@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="FizzBuzz2Test" tests="2" skipped="0" failures="1" errors="0" timestamp="2022-09-07T19:57:41" hostname="faedulje-a72a4" time="0.394">
+<testsuite name="FizzBuzz2Test" tests="2" skipped="0" failures="1" errors="0" timestamp="2023-06-06T18:05:48" hostname="faedulje-26c09" time="0.337">
   <properties/>
-  <testcase name="Should show 1 for 1" classname="FizzBuzz2Test" time="0.185"/>
-  <testcase name="Should show 2 for 2" classname="FizzBuzz2Test" time="0.209">
+  <testcase name="Should show 1 for 1" classname="FizzBuzz2Test" time="0.15"/>
+  <testcase name="Should show 2 for 2" classname="FizzBuzz2Test" time="0.186">
     <failure message="Condition not satisfied:&#10;&#10;&quot;2&quot; == new FizzBuzz2().convert(2)&#10;    |  |               |&#10;    |  |               1&#10;    |  &lt;FizzBuzz2@7d6ec8cd&gt;&#10;    false&#10;    1 difference (0% similarity)&#10;    (2)&#10;    (1)&#10;" type="org.spockframework.runtime.SpockComparisonFailure">Condition not satisfied:
 
 &quot;2&quot; == new FizzBuzz2().convert(2)
